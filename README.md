@@ -1,2 +1,3 @@
 # Trello_API
-Projeto de requisições de API do Trello
+- Cenários : https://trello.com/b/QJG0n53p/api-trello
+- Utilizado Ruby com Httparty e RSpec
